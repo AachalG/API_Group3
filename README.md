@@ -58,3 +58,4 @@ RESTful API requests can include parameters that give the server more details ab
 - Path parameters that specify URL details.
 - Query parameters that request more information about the resource.
 - Cookie parameters that authenticate clients quickly.
+Aachal G
